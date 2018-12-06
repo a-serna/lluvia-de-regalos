@@ -53,3 +53,21 @@ body {
     background-position: center center;
     display:block;
 }
+
+.tienda{
+	position: absolute;
+	top: 90%;
+  left: 90%;
+  background-color: white;
+  width: 48px;
+  height: 48px;
+}
+
+.home{
+	position: absolute;
+	top: 90%;
+  right: 90%;
+  background-color: white;
+  width: 48px;
+  height: 48px;
+}
